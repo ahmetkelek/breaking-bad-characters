@@ -1,6 +1,6 @@
 # breaking-bad-characters
 
-## API Source
+## API
 
 <a href="https://breakingbadapi.com/">Breaking Bad API</a>
 
